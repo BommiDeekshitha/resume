@@ -1,0 +1,59 @@
+{
+  "personalInfo": {
+    "firstname": "The",
+    "lastname": "Flash",
+    "address": "Central City",
+    "phone": "647-851-9821",
+    "email": "yourEmail@gmail.com",
+    "linkedin": "linkedin.com/my-profile",
+    "github": "github.com/my-profile"
+  },
+  "objective": "Primary goal is to protect the citizens of Central City (and sometimes beyond) from those who would do them harm.",
+  "keyHighlights": [
+    {
+      "id": "ba00f584-5f9b-4fbd-8c45-1cca5560a317",
+      "title": "Speedster",
+      "description": "Fastest Runner on Earth"
+    }
+  ],
+  "education": [
+    {
+      "id": "ddef78ba-4035-4723-a25a-872044170747",
+      "instituteType": "Central City University",
+      "courseType": "Physics",
+      "location": "Central City",
+      "startYear": "2023",
+      "endYear": "2025"
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "603fadec-08ad-49c6-93ce-46bcd3cef3e3",
+      "company": "Central City Police Department",
+      "position": "Forensic Scientist",
+      "location": "Central City",
+      "start": "2023",
+      "end": "2025",
+      "description": [
+        {
+          "id": "dbf884c7-0cef-4372-ba70-96d97e32614e",
+          "term": "Stewardship",
+          "description": "Acts as a guardian of Earth, carefully managing the use of his Kryptonian powers to ensure minimal collateral damage and to protect humanity as a whole."
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "5cc08aae-51a7-4fcb-b970-10859155ab7d",
+      "title": "The Flash",
+      "url": "TheFlash.com",
+      "description": "Barry Allen, the Flash, pushed the limits of speed in S.T.A.R. Labs. His newest project involved a treadmill built of pure Speed Force energy – volatile and unpredictable. The goal was to reach impossible speeds, but Cisco's warnings echoed in his ears as he stepped onto the glowing platform, ready to disappear in a blur of crimson lightning.",
+      "start": "Feb 2024",
+      "end": "Feb 2024",
+      "skills": "Science, Engineering, Superhuman Speed, Time Travel, Leadership"
+    }
+  ],
+  "uniqueid": "328cf51a-e43e-4471-a98b-620bb3945557",
+  "date": "20/5/2024, 12:56:27 pm"
+}
